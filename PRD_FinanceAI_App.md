@@ -134,5 +134,6 @@ Com base neste PRD, peço que você:
 - Pelo menos 1 meta criada por usuário na primeira semana
 
 ---
+Link para Teste : https://meet-finn-finance.base44.app
 
 *PRD desenvolvido como parte do Bootcamp DIO — Desafio: App de Organização de Finanças Pessoais com Vibe Coding*
